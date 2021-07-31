@@ -4,5 +4,8 @@
     <data-source name="test" uuid="fdb3c099-9dfb-45fe-97a2-b614d3b2b830">
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
     </data-source>
+    <data-source name="test [2]" uuid="0ba7a2cc-e12d-4612-96fd-d83bcc8548c0">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
   </component>
 </project>
